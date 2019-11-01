@@ -1,0 +1,15 @@
+# Calculadora nro4
+# Esta calculadora desarrollara el calculo del tiempo con la que una persona sale de su casa hasta llegar a la universidad
+#
+# # Declaracion de variables
+# distancia,rapidez,tiempo_ralizado=ra nro40.0,0.0,0.0
+
+# Calculadora
+distancia=100
+rapidez=12.5
+tiempo_ralizado=(distancia/rapidez)
+
+# Mostrar datos
+print("distancia = ", distancia)
+print("rapidez = ", rapidez)
+print("tiempo_realizado = ", tiempo_ralizado)
